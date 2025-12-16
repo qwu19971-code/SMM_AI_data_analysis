@@ -1,0 +1,5 @@
+{
+  "name": "SMM AI User Analytics",
+  "description": "A dashboard to analyze user behavior, query trends, and topic distribution for the Shanghai Nonferrous Network (SMM) AI Assistant using CSV data and Gemini AI.",
+  "requestFramePermissions": []
+}
